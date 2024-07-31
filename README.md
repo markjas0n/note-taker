@@ -50,7 +50,8 @@ Open your web browser and go to http://localhost:3001 to use the application.**
 -   Deletes the note with the specified ID from the db.json file and returns a message indicating the note was deleted.
 
 **Screenshots**
-
+<br> ![alt text](public/assets/img/GIFMaker_me.gif) </br>
+<br> ![<alt text>](<public/assets/img/Screenshot 2024-07-30 at 9.38.09 PM.png>) </br>
 **Landing Page**
 **Notes Page**
 **License**
